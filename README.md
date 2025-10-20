@@ -1,7 +1,8 @@
 <!--  ─────────────────────────────  HERO  ─────────────────────────────  -->
 <p align="center">
   <!-- Animated banner (self‑hosted SVG). Save as /assets/forest-banner.svg -->
-  <img src="assets/Camp_Fire.png" width="100%" alt="Kyle Liebenberg — Forest Banner" />
+  <!-- <img src="assets/Camp_Fire.png" width="100%" alt="Kyle Liebenberg — Forest Banner" /> -->
+  <img src="assets/BannerAndName.gif" width="100%" alt="Kyle Liebenberg — Forest Banner" />
 </p>
 
 <!-- Typing intro (external service) -->
@@ -20,14 +21,33 @@
 
 <table align="center">
 <tr>
+
+## CHARACTER LOADOUT
+
+</tr>
+<tr>
 <td>
 
-### WHO AM I?!
+#### Character Description
 I am a final year Computer Science student at the university of pretoria, and have been working with computers and programming for over 7 years. I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably at the gym, playing pool, losing in chess, but most likely am dead asleep.
 </td>
 <td width="220" align="center">
 
 <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### Primary
+<img src="assets/Keyboard.png" alt="Kyle's yunzii" width="220"/>
+
+</td>
+<td>
+
+#### Secondary
+<img src="assets/Mouse.png" alt="Kyle's mouse" width="220"/>
 
 </td>
 </tr>
@@ -190,3 +210,11 @@ I am a final year Computer Science student at the university of pretoria, and ha
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=u22608789&bg_color=ffffff00&color=3b3b3b&line=2e4f2f&point=4b3b2b&hide_border=true"/>
 </p>
+
+<!-- 
+To add:
+- Primary (keyboard) and Secondary (mouse) weapons 
+- Some little gifs all around 
+- Change the brown bar 
+- Add skill points where possible
+- Change description - more video game vibe  -->
