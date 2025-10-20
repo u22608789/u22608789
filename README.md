@@ -1,12 +1,7 @@
 <!--  ─────────────────────────────  HERO  ─────────────────────────────  -->
 <p align="center">
   <!-- Animated banner (self‑hosted SVG). Save as /assets/forest-banner.svg -->
-  <img src="assets/forest-banner.svg" width="100%" alt="Kyle Liebenberg — Forest Banner" />
-</p>
-
-<p align="center">
-  <!-- Your 3D pixel name art (drop into /assets/Name.png) -->
-  <img src="assets/Name.png" alt="KYLE LIEBENBERG 3D Pixel" height="500"/>
+  <img src="assets/Camp_Fire.png" width="100%" alt="Kyle Liebenberg — Forest Banner" />
 </p>
 
 <!-- Typing intro (external service) -->
