@@ -6,13 +6,13 @@
 
 <p align="center">
   <!-- Your 3D pixel name art (drop into /assets/Name.png) -->
-  <img src="assets/Name.png" alt="KYLE LIEBENBERG 3D Pixel" height="160"/>
+  <img src="assets/Name.png" alt="KYLE LIEBENBERG 3D Pixel" height="500"/>
 </p>
 
 <!-- Typing intro (external service) -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=print(%22Hi%2C+I'm+Kyle+%F0%9F%A6%86+%7C+Final+Year+Computer+Science+Student+at+Tuks%22)" alt="Typing Intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=print(%22Hi%2C+I'm+Kyle+%F0%9F%A6%86+%7C+A+Computer+Science+Student+at+Tuks%22)" alt="Typing Intro"/>
   </a>
 </p>
 
