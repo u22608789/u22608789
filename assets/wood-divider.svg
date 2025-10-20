@@ -1,0 +1,11 @@
+<svg width="800" height="18" viewBox="0 0 800 18" xmlns="http://www.w3.org/2000/svg" role="presentation">
+<defs>
+<pattern id="grain" patternUnits="userSpaceOnUse" width="10" height="10">
+<rect width="10" height="10" fill="#4b3b2b"/>
+<path d="M0,5 q2,-2 4,0 t4,0 t4,0" stroke="#5a4634" stroke-width="1" fill="none"/>
+</pattern>
+</defs>
+<rect x="0" y="7" width="800" height="4" fill="url(#grain)"/>
+<rect x="0" y="0" width="800" height="2" fill="#2e4f2f" opacity="0.9"/>
+<rect x="0" y="16" width="800" height="2" fill="#2e4f2f" opacity="0.9"/>
+</svg>

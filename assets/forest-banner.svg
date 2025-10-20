@@ -1,0 +1,62 @@
+<svg width="1800" height="380" viewBox="0 0 1800 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kyle Liebenberg">
+<defs>
+<linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+<stop offset="0%" stop-color="#262b26"/>
+<stop offset="100%" stop-color="#1f231f"/>
+</linearGradient>
+<filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+<feGaussianBlur stdDeviation="3" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<!-- Tree shape -->
+<g id="tree">
+<rect x="-6" y="-36" width="12" height="36" fill="#4b3b2b"/>
+<rect x="-24" y="-72" width="48" height="36" fill="#2e4f2f"/>
+<rect x="-36" y="-108" width="72" height="36" fill="#315a34"/>
+<rect x="-48" y="-144" width="96" height="36" fill="#39663c"/>
+</g>
+</defs>
+
+
+<rect width="100%" height="100%" fill="url(#bg)"/>
+
+
+<!-- Parallax tree rows -->
+<g filter="url(#softGlow)">
+<g opacity="0.20" transform="translate(0,300)">
+<use href="#tree" x="100"/>
+<use href="#tree" x="260"/>
+<use href="#tree" x="420"/>
+<use href="#tree" x="580"/>
+<use href="#tree" x="740"/>
+<use href="#tree" x="900"/>
+<use href="#tree" x="1060"/>
+<use href="#tree" x="1220"/>
+<use href="#tree" x="1380"/>
+<use href="#tree" x="1540"/>
+</g>
+<g opacity="0.35" transform="translate(0,330)">
+<use href="#tree" x="180"/>
+<use href="#tree" x="340"/>
+<use href="#tree" x="500"/>
+<use href="#tree" x="660"/>
+<use href="#tree" x="820"/>
+<use href="#tree" x="980"/>
+<use href="#tree" x="1140"/>
+<use href="#tree" x="1300"/>
+<use href="#tree" x="1460"/>
+<use href="#tree" x="1620"/>
+</g>
+</g>
+
+
+<!-- Title -->
+<g filter="url(#softGlow)">
+<text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="36" fill="#ece7d8">
+KYLE LIEBENBERG
+</text>
+<text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-family="'Fira Code', monospace" font-size="18" fill="#c9c2b3">
+</svg>
