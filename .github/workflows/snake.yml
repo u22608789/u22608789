@@ -1,4 +1,8 @@
-name: Generate Snake
+# .github/workflows/snake.yml
+name: Generate Snake 🐍
+
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -15,7 +19,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3

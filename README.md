@@ -28,8 +28,7 @@
 <td>
 
 ### WHO AM I?!
-I am a **final‑year Computer Science student** with **7+ years** of programming. I thrive on **mathematics** and **problem solving**, and I’m diving deep into **AI**—with a growing focus on **Cybersecurity**. When I’m not coding: I’m at the **gym**, **playing pool**, **losing in chess** (tragically), **hiking in nature**, or **dead asleep**.
-
+I am a final year Computer Science student at the university of pretoria, and have been working with computers and programming for over 7 years. I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably at the gym, playing pool, losing in chess, but most likely am dead asleep.
 </td>
 <td width="220" align="center">
 
@@ -154,18 +153,7 @@ I am a **final‑year Computer Science student** with **7+ years** of programmin
 
 
 <details>
-<summary><b>🦆 Open the terminal log</b></summary>
-
-```text
-> booting_forest_terminal...
-> loading_modules: math, dsa, ai, mad_chill
-> wisdom: "Max out all your stats and help others do so too."
-> status: exploring trails, shipping code, occasionally losing at chess 
-```
-</details>
-
-<details>
-<summary><b>take a seat</b></summary>
+<summary><b>take a seat...</b></summary>
 
 ```
                                         
