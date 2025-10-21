@@ -20,18 +20,19 @@
   <img src="assets/text/characterloadout.png" alt="Character Loadout Title" height="48"/>
 </p>
 
-<!-- TABLE 1 — Character Description | Avatar (65% | 35%) -->
+<!-- TABLE 1 — Character Description -->
 <table align="center" width="100%">
   <tr>
-    <td style="vertical-align:top; width:55%; padding-right:10px;">
+    <!-- Description takes 2/3 (~66%) -->
+    <td style="vertical-align:top; width:66%; padding-right:10px;">
       <h4>Character Description</h4>
       I am a final year Computer Science student at the University of Pretoria, and have been working with computers and programming for over 7 years.
       I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into
       the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably
       at the gym, playing pool, losing in chess, hiking in nature, but most likely am dead asleep.
     </td>
-    <td style="vertical-align:top; width:45%; text-align:center;">
-      <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/>
+    <td style="vertical-align:top; width:34%; text-align:center;">
+      <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="300" style="max-width:100%; height:auto;"/>
     </td>
   </tr>
 </table>
@@ -170,7 +171,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/activity.png" alt="Activity Graph Title" height="44"/>
+  <img src="assets/text/activity.png" alt="Activity Graph Title" height="44"/>
 </p>
 
 <p align="center">
