@@ -23,23 +23,18 @@
 <!-- TABLE 1 — Character Description | Avatar (65% | 35%) -->
 <table align="center" width="100%">
   <tr>
-    <td style="vertical-align:top; width:65%; padding-right:10px;">
+    <td style="vertical-align:top; width:55%; padding-right:10px;">
       <h4>Character Description</h4>
       I am a final year Computer Science student at the University of Pretoria, and have been working with computers and programming for over 7 years.
       I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into
       the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably
       at the gym, playing pool, losing in chess, hiking in nature, but most likely am dead asleep.
     </td>
-    <td style="vertical-align:top; width:35%; text-align:center;">
+    <td style="vertical-align:top; width:45%; text-align:center;">
       <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/>
     </td>
   </tr>
 </table>
-
-<!-- keep divider as is -->
-<p align="center">
-  <img src="assets/wood-divider.svg" height="18" alt="divider"/>
-</p>
 
 <!-- TABLE 2 — Primary | Secondary (50% | 50%) -->
 <table align="center" width="100%">
@@ -55,10 +50,6 @@
   </tr>
 </table>
 
-<!-- keep divider as is -->
-<p align="center">
-  <img src="assets/wood-divider.svg" height="18" alt="divider"/>
-</p>
 
 <!-- TABLE 3 — Stats rows with 1/4 : 3/4 split -->
 <table align="center" width="100%">
@@ -66,53 +57,56 @@
   <!-- Critical Skills -->
   <tr>
     <td style="vertical-align:middle; width:25%; text-align:center; padding-top:10px;">
-      <img src="assets/text/criticalskills.png" alt="Critical Skills" height="40"/>
+      <!-- <img src="assets/text/criticalskills.png" alt="Critical Skills" height="40"/> -->
+      <h3>Critical Skills</h3>
     </td>
     <td style="vertical-align:top; width:75%; padding-top:10px;">
-      <!-- 10-block meters: 🟫 filled, ⬜ empty -->
-      <div><b>Problem-solving</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜ 9/10</div>
-      <div><b>Mathematics</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
-      <div><b>Data Structures & Algorithms</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
-      <div><b>Physics</b> — 🟫🟫🟫🟫🟫🟫⬜⬜⬜⬜ 6/10</div>
-      <div><b>Backend Development</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
-      <div><b>Stupendous Vibe Coder</b> *(joke)* — 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 10/10</div>
+      <div><b>Problem-solving</b> — <img src="assets/ui/greenbar_9.svg" alt="9/10" height="14"/> 9/10</div>
+      <div><b>Mathematics</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
+      <div><b>Data Structures & Algorithms</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Physics</b> — <img src="assets/ui/greenbar_6.svg" alt="6/10" height="14"/> 6/10</div>
+      <div><b>Backend Development</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Stupendous Vibe Coder</b> (joke) — <img src="assets/ui/greenbar_10.svg" alt="10/10" height="14"/> 10/10</div>
     </td>
   </tr>
 
   <!-- Soft Skills -->
   <tr>
     <td style="vertical-align:middle; width:25%; text-align:center; padding-top:18px;">
-      <img src="assets/text/softskills.png" alt="Soft Skills" height="40"/>
+      <!-- <img src="assets/text/softskills.png" alt="Soft Skills" height="40"/> -->
+      <h3>Soft Skills</h3>
     </td>
     <td style="vertical-align:top; width:75%; padding-top:18px;">
-      <div><b>Communication</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
-      <div><b>Teamwork & Collaboration</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
-      <div><b>Creativity</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
-      <div><b>Time Management</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+      <div><b>Communication</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Teamwork & Collaboration</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Creativity</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
+      <div><b>Time Management</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
     </td>
   </tr>
 
   <!-- Hobbies -->
   <tr>
     <td style="vertical-align:middle; width:25%; text-align:center; padding-top:18px;">
-      <img src="assets/text/hobbies.png" alt="Hobbies" height="40"/>
+      <!-- <img src="assets/text/hobbies.png" alt="Hobbies" height="40"/> -->
+      <h3>Hobbies</h3>
     </td>
     <td style="vertical-align:top; width:75%; padding-top:18px;">
-      <div><b>Gym</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
-      <div><b>Chess</b> — 🟫🟫🟫🟫⬜⬜⬜⬜⬜⬜ 4/10</div>
-      <div><b>Video Games</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
-      <div><b>Pool & Table Tennis</b> — 🟫🟫🟫🟫🟫🟫⬜⬜⬜⬜ 6/10</div>
-      <div><b>Nature & Hikes</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜ 9/10</div>
+      <div><b>Gym</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
+      <div><b>Chess</b> — <img src="assets/ui/greenbar_4.svg" alt="4/10" height="14"/> 4/10</div>
+      <div><b>Video Games</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Pool & Table Tennis</b> — <img src="assets/ui/greenbar_6.svg" alt="6/10" height="14"/> 6/10</div>
+      <div><b>Nature & Hikes</b> — <img src="assets/ui/greenbar_9.svg" alt="9/10" height="14"/> 9/10</div>
     </td>
   </tr>
 
   <!-- Philosophy -->
   <tr>
     <td style="vertical-align:middle; width:25%; text-align:center; padding-top:18px;">
-      <img src="assets/text/philosophy.png" alt="Philosophy" height="40"/>
+      <!-- <img src="assets/text/philosophy.png" alt="Philosophy" height="40"/> -->
+      <h3>Philosophy</h3>
     </td>
     <td style="vertical-align:top; width:75%; padding-top:18px;">
-      <div><b>Max out all your stats & help others do so too</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 10/10</div>
+      <div><b>Max out all your stats & help others do so too</b> — <img src="assets/ui/greenbar_10.svg" alt="10/10" height="14"/> 10/10</div>
     </td>
   </tr>
 </table>
