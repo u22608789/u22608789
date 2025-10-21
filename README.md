@@ -21,20 +21,16 @@
 </p>
 
 <!-- TABLE 1 — Character Description -->
-<table align="center" width="100%">
+<table align="center"> 
   <tr>
-    <!-- Description takes 2/3 (~66%) -->
-    <td style="vertical-align:top; width:66%; padding-right:10px;">
-      <h4>Character Description</h4>
-      I am a final year Computer Science student at the University of Pretoria, and have been working with computers and programming for over 7 years.
-      I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into
-      the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably
-      at the gym, playing pool, losing in chess, hiking in nature, but most likely am dead asleep.
-    </td>
-    <td style="vertical-align:top; width:34%; text-align:center;">
-      <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="300" style="max-width:100%; height:auto;"/>
-    </td>
-  </tr>
+    <td> 
+    #### Character Description 
+    I am a final year Computer Science student at the university of pretoria, and have been working with computers and programming for over 7 years. I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably at the gym, playing pool, losing in chess, but most likely am dead asleep. 
+    </td> 
+    <td width="220" align="center"> 
+    <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/> 
+    </td> 
+  </tr> 
 </table>
 
 <!-- TABLE 2 — Primary | Secondary (50% | 50%) -->
@@ -64,10 +60,10 @@
     <td style="vertical-align:top; width:75%; padding-top:10px;">
       <div><b>Problem-solving</b> — <img src="assets/ui/greenbar_9.svg" alt="9/10" height="14"/> 9/10</div>
       <div><b>Mathematics</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
-      <div><b>Data Structures & Algorithms</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Data Structures & Algorithms</b> — <img src="assets/ui/greenbar_8.svg" alt="7/10" height="14"/> 7/10</div>
       <div><b>Physics</b> — <img src="assets/ui/greenbar_6.svg" alt="6/10" height="14"/> 6/10</div>
       <div><b>Backend Development</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
-      <div><b>Stupendous Vibe Coder</b> (joke) — <img src="assets/ui/greenbar_10.svg" alt="10/10" height="14"/> 10/10</div>
+      <div><b>Stupendous Vibe Coder</b> *(mostly joking...)* — <img src="assets/ui/greenbar_10.svg" alt="10/10" height="14"/> 10/10</div>
     </td>
   </tr>
 
