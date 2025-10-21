@@ -17,11 +17,11 @@
 
 <!--  ─────────────────────────────  CHARACTER LOADOUT  ─────────────────────────────  -->
 <p align="center">
-  <img src="text/characterloadout.png" alt="Character Loadout Title" height="48"/>
+  <img src="assets/text/characterloadout.png" alt="Character Loadout Title" height="48"/>
 </p>
 
+<!-- TABLE 1 — Character Description | Avatar (65% | 35%) -->
 <table align="center" width="100%">
-  <!-- ROW 1: Uneven split (Description | Avatar) -->
   <tr>
     <td style="vertical-align:top; width:65%; padding-right:10px;">
       <h4>Character Description</h4>
@@ -34,26 +34,42 @@
       <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/>
     </td>
   </tr>
+</table>
 
-  <!-- ROW 2: Even split 50/50 (Primary | Secondary) -->
+<!-- keep divider as is -->
+<p align="center">
+  <img src="assets/wood-divider.svg" height="18" alt="divider"/>
+</p>
+
+<!-- TABLE 2 — Primary | Secondary (50% | 50%) -->
+<table align="center" width="100%">
   <tr>
-    <td style="vertical-align:top; width:50%; text-align:center; padding-top:14px;">
+    <td style="vertical-align:top; width:50%; text-align:center; padding-top:4px;">
       <h4>Primary</h4>
       <img src="assets/Keyboard.png" alt="Kyle's primary gear" width="220"/>
     </td>
-    <td style="vertical-align:top; width:50%; text-align:center; padding-top:14px;">
+    <td style="vertical-align:top; width:50%; text-align:center; padding-top:4px;">
       <h4>Secondary</h4>
       <img src="assets/Mouse.png" alt="Kyle's secondary gear" width="220"/>
     </td>
   </tr>
+</table>
 
-  <!-- ROW 3: Critical Skills (Left title image | Right skill meters) -->
+<!-- keep divider as is -->
+<p align="center">
+  <img src="assets/wood-divider.svg" height="18" alt="divider"/>
+</p>
+
+<!-- TABLE 3 — Stats rows with 1/4 : 3/4 split -->
+<table align="center" width="100%">
+
+  <!-- Critical Skills -->
   <tr>
-    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
-      <img src="text/criticalskills.png" alt="Critical Skills" height="40"/>
+    <td style="vertical-align:middle; width:25%; text-align:center; padding-top:10px;">
+      <img src="assets/text/criticalskills.png" alt="Critical Skills" height="40"/>
     </td>
-    <td style="vertical-align:top; width:65%; padding-top:18px;">
-      <!-- Skill meters: 10-block bar using 🟫 for filled and ⬜ for empty -->
+    <td style="vertical-align:top; width:75%; padding-top:10px;">
+      <!-- 10-block meters: 🟫 filled, ⬜ empty -->
       <div><b>Problem-solving</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜ 9/10</div>
       <div><b>Mathematics</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
       <div><b>Data Structures & Algorithms</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
@@ -63,12 +79,12 @@
     </td>
   </tr>
 
-  <!-- ROW 4: Soft Skills -->
+  <!-- Soft Skills -->
   <tr>
-    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
-      <img src="text/softskills.png" alt="Soft Skills" height="40"/>
+    <td style="vertical-align:middle; width:25%; text-align:center; padding-top:18px;">
+      <img src="assets/text/softskills.png" alt="Soft Skills" height="40"/>
     </td>
-    <td style="vertical-align:top; width:65%; padding-top:18px;">
+    <td style="vertical-align:top; width:75%; padding-top:18px;">
       <div><b>Communication</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
       <div><b>Teamwork & Collaboration</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
       <div><b>Creativity</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
@@ -76,12 +92,12 @@
     </td>
   </tr>
 
-  <!-- ROW 5: Hobbies -->
+  <!-- Hobbies -->
   <tr>
-    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
-      <img src="text/hobbies.png" alt="Hobbies" height="40"/>
+    <td style="vertical-align:middle; width:25%; text-align:center; padding-top:18px;">
+      <img src="assets/text/hobbies.png" alt="Hobbies" height="40"/>
     </td>
-    <td style="vertical-align:top; width:65%; padding-top:18px;">
+    <td style="vertical-align:top; width:75%; padding-top:18px;">
       <div><b>Gym</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
       <div><b>Chess</b> — 🟫🟫🟫🟫⬜⬜⬜⬜⬜⬜ 4/10</div>
       <div><b>Video Games</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
@@ -90,12 +106,12 @@
     </td>
   </tr>
 
-  <!-- ROW 6: Philosophy -->
+  <!-- Philosophy -->
   <tr>
-    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
-      <img src="text/philosophy.png" alt="Philosophy" height="40"/>
+    <td style="vertical-align:middle; width:25%; text-align:center; padding-top:18px;">
+      <img src="assets/text/philosophy.png" alt="Philosophy" height="40"/>
     </td>
-    <td style="vertical-align:top; width:65%; padding-top:18px;">
+    <td style="vertical-align:top; width:75%; padding-top:18px;">
       <div><b>Max out all your stats & help others do so too</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 10/10</div>
     </td>
   </tr>
@@ -107,7 +123,7 @@
 
 <!--  ─────────────────────────────  CONTACT  ─────────────────────────────  -->
 <p align="center">
-  <img src="text/contactme.png" alt="Reach Me Title" height="44"/>
+  <img src="assets/text/contactme.png" alt="Reach Me Title" height="44"/>
 </p>
 
 - **Email:** <a href="mailto:kylel@dtfx.co.za">kylel@dtfx.co.za</a>
@@ -121,7 +137,7 @@
 
 <!--  ─────────────────────────────  STATS  ─────────────────────────────  -->
 <p align="center">
-  <img src="text/stats.png" alt="Stats Title" height="44"/>
+  <img src="assets/text/stats.png" alt="Stats Title" height="44"/>
 </p>
 
 <p align="center">
