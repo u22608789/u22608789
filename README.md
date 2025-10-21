@@ -1,14 +1,12 @@
 <!--  ─────────────────────────────  HERO  ─────────────────────────────  -->
 <p align="center">
-  <!-- Animated banner (self‑hosted SVG). Save as /assets/forest-banner.svg -->
-  <!-- <img src="assets/Camp_Fire.png" width="100%" alt="Kyle Liebenberg — Forest Banner" /> -->
   <img src="assets/BannerAndName.gif" width="100%" alt="Kyle Liebenberg — Forest Banner" />
 </p>
 
-<!-- Typing intro (external service) -->
+<!-- Typing intro (external service) — color set to brown -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=print(%22Hi%2C+I'm+Kyle+%F0%9F%A6%86+%7C+A+Computer+Science+Student+at+Tuks%22)" alt="Typing Intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&color=4B3B2B&lines=print(%22Hi%2C+I'm+Kyle+%F0%9F%A6%86+%7C+A+Computer+Science+Student+at+Tuks%22)" alt="Typing Intro"/>
   </a>
 </p>
 
@@ -17,109 +15,100 @@
   <img src="assets/wood-divider.svg" height="18" alt="divider"/>
 </p>
 
-<!--  ─────────────────────────────  QUICK FACTS  ─────────────────────────────  -->
+<!--  ─────────────────────────────  CHARACTER LOADOUT  ─────────────────────────────  -->
+<p align="center">
+  <img src="text/characterloadout.png" alt="Character Loadout Title" height="48"/>
+</p>
 
-<table align="center">
-<tr>
+<table align="center" width="100%">
+  <!-- ROW 1: Uneven split (Description | Avatar) -->
+  <tr>
+    <td style="vertical-align:top; width:65%; padding-right:10px;">
+      <h4>Character Description</h4>
+      I am a final year Computer Science student at the University of Pretoria, and have been working with computers and programming for over 7 years.
+      I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into
+      the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably
+      at the gym, playing pool, losing in chess, hiking in nature, but most likely am dead asleep.
+    </td>
+    <td style="vertical-align:top; width:35%; text-align:center;">
+      <img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/>
+    </td>
+  </tr>
 
-## CHARACTER LOADOUT
+  <!-- ROW 2: Even split 50/50 (Primary | Secondary) -->
+  <tr>
+    <td style="vertical-align:top; width:50%; text-align:center; padding-top:14px;">
+      <h4>Primary</h4>
+      <img src="assets/Keyboard.png" alt="Kyle's primary gear" width="220"/>
+    </td>
+    <td style="vertical-align:top; width:50%; text-align:center; padding-top:14px;">
+      <h4>Secondary</h4>
+      <img src="assets/Mouse.png" alt="Kyle's secondary gear" width="220"/>
+    </td>
+  </tr>
 
-</tr>
-<tr>
-<td>
+  <!-- ROW 3: Critical Skills (Left title image | Right skill meters) -->
+  <tr>
+    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
+      <img src="text/criticalskills.png" alt="Critical Skills" height="40"/>
+    </td>
+    <td style="vertical-align:top; width:65%; padding-top:18px;">
+      <!-- Skill meters: 10-block bar using 🟫 for filled and ⬜ for empty -->
+      <div><b>Problem-solving</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜ 9/10</div>
+      <div><b>Mathematics</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
+      <div><b>Data Structures & Algorithms</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+      <div><b>Physics</b> — 🟫🟫🟫🟫🟫🟫⬜⬜⬜⬜ 6/10</div>
+      <div><b>Backend Development</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+      <div><b>Stupendous Vibe Coder</b> *(joke)* — 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 10/10</div>
+    </td>
+  </tr>
 
-#### Character Description
-I am a final year Computer Science student at the university of pretoria, and have been working with computers and programming for over 7 years. I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably at the gym, playing pool, losing in chess, but most likely am dead asleep.
-</td>
-<td width="220" align="center">
+  <!-- ROW 4: Soft Skills -->
+  <tr>
+    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
+      <img src="text/softskills.png" alt="Soft Skills" height="40"/>
+    </td>
+    <td style="vertical-align:top; width:65%; padding-top:18px;">
+      <div><b>Communication</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+      <div><b>Teamwork & Collaboration</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+      <div><b>Creativity</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
+      <div><b>Time Management</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+    </td>
+  </tr>
 
-<img src="assets/Kyle.png" alt="Kyle voxel avatar" width="220"/>
+  <!-- ROW 5: Hobbies -->
+  <tr>
+    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
+      <img src="text/hobbies.png" alt="Hobbies" height="40"/>
+    </td>
+    <td style="vertical-align:top; width:65%; padding-top:18px;">
+      <div><b>Gym</b> — 🟫🟫🟫🟫🟫🟫🟫🟫⬜⬜ 8/10</div>
+      <div><b>Chess</b> — 🟫🟫🟫🟫⬜⬜⬜⬜⬜⬜ 4/10</div>
+      <div><b>Video Games</b> — 🟫🟫🟫🟫🟫🟫🟫⬜⬜⬜ 7/10</div>
+      <div><b>Pool & Table Tennis</b> — 🟫🟫🟫🟫🟫🟫⬜⬜⬜⬜ 6/10</div>
+      <div><b>Nature & Hikes</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫⬜ 9/10</div>
+    </td>
+  </tr>
 
-</td>
-</tr>
-<tr>
-<td>
-
-#### Primary
-<img src="assets/Keyboard.png" alt="Kyle's yunzii" width="220"/>
-
-</td>
-<td>
-
-#### Secondary
-<img src="assets/Mouse.png" alt="Kyle's mouse" width="220"/>
-
-</td>
-</tr>
+  <!-- ROW 6: Philosophy -->
+  <tr>
+    <td style="vertical-align:middle; width:35%; text-align:center; padding-top:18px;">
+      <img src="text/philosophy.png" alt="Philosophy" height="40"/>
+    </td>
+    <td style="vertical-align:top; width:65%; padding-top:18px;">
+      <div><b>Max out all your stats & help others do so too</b> — 🟫🟫🟫🟫🟫🟫🟫🟫🟫🟫 10/10</div>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
   <img src="assets/wood-divider.svg" height="18" alt="divider"/>
 </p>
 
-<!--  ─────────────────────────────  SKILLS  ─────────────────────────────  -->
-
-### CRITICAL SKILLS
-
-> Problem‑solving • Mathematics • Data Structures & Algorithms • Physics • Backend Development • Absolute stupendous vibe coder *(joking… mostly)*
-
-### SOFT SKILLS
-
-> Communication • Teamwork & Collaboration • Creativity • Time Management
-
-### HOBBIES
-
-> Gym • Chess • Video Games • Pool & Table Tennis • Nature & Outdoor Adventures/Hikes
-
-### MY PHILOSOPHY
-
-> **Max out all your stats and help others do so too.**
-
-<p align="center">
-  <img src="assets/wood-divider.svg" height="18" alt="divider"/>
-</p>
-
-<!--  ─────────────────────────────  TECH STACK  ─────────────────────────────  -->
-
-### LANGUAGES
-
-<p>
-  <img src="https://img.shields.io/badge/Java-4b3b2b?style=for-the-badge&logo=openjdk&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Python-2e4f2f?style=for-the-badge&logo=python&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-4b3b2b?style=for-the-badge&logo=cplusplus&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/SQL-2e4f2f?style=for-the-badge&logo=postgresql&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/JavaScript-4b3b2b?style=for-the-badge&logo=javascript&logoColor=ece7d8"/>
-</p>
-
-### TECH & FRAMEWORKS
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-2e4f2f?style=for-the-badge&logo=nodedotjs&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/TensorFlow-4b3b2b?style=for-the-badge&logo=tensorflow&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/PyTorch-2e4f2f?style=for-the-badge&logo=pytorch&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-4b3b2b?style=for-the-badge&logo=scikitlearn&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Pandas-2e4f2f?style=for-the-badge&logo=pandas&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/NumPy-4b3b2b?style=for-the-badge&logo=numpy&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Git-2e4f2f?style=for-the-badge&logo=git&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Docker-4b3b2b?style=for-the-badge&logo=docker&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/AWS-2e4f2f?style=for-the-badge&logo=amazonaws&logoColor=ece7d8"/>
-</p>
-
-### NEXT UP...
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-4b3b2b?style=for-the-badge&logo=springboot&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Kotlin-2e4f2f?style=for-the-badge&logo=kotlin&logoColor=ece7d8"/>
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-4b3b2b?style=for-the-badge&logo=rubyonrails&logoColor=ece7d8"/>
-</p>
-
-<p align="center">
-  <img src="assets/wood-divider.svg" height="18" alt="divider"/>
-</p>
-
 <!--  ─────────────────────────────  CONTACT  ─────────────────────────────  -->
-
-### REACH ME
+<p align="center">
+  <img src="text/contactme.png" alt="Reach Me Title" height="44"/>
+</p>
 
 - **Email:** <a href="mailto:kylel@dtfx.co.za">kylel@dtfx.co.za</a>
 - **Phone:** <a href="tel:+27608348160">+27 60 834 8160</a>
@@ -131,8 +120,9 @@ I am a final year Computer Science student at the university of pretoria, and ha
 </p>
 
 <!--  ─────────────────────────────  STATS  ─────────────────────────────  -->
-
-### STATS
+<p align="center">
+  <img src="text/stats.png" alt="Stats Title" height="44"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=u22608789&show_icons=true&hide_border=true&title_color=2e4f2f&icon_color=4b3b2b&text_color=3b3b3b&bg_color=ffffff00" height="150"/>
@@ -146,7 +136,6 @@ I am a final year Computer Science student at the university of pretoria, and ha
 <p align="center">
   <img src="assets/wood-divider.svg" height="18" alt="divider"/>
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=u22608789&label=Campfire+Visitors&color=4b3b2b&style=flat" alt="view count"/>
@@ -166,55 +155,14 @@ I am a final year Computer Science student at the university of pretoria, and ha
   <img src="https://raw.githubusercontent.com/u22608789/u22608789/output/snake.svg" alt="snake"/>
 </p>
 
-
-<details>
-<summary><b>take a seat...</b></summary>
-
-```
-                                        
-
-                                                            
-                                               /;-._,-.____        ,-----.__
-                                              (_:#::_.:::. `-._   /:, /-._, `._,
-                                                  \   _|`"=:_::.`.);  \ __/ /
-                                                    ,    `./  \:. `.   )==-'
-                                         ., ,-=-.  ,\, +#./`   \:.  / /
-                                          \/:/`-' , ,\ '` ` `   ): , /_  -o
-                                          /:+- - + +- : :- + + -:'  /(o-) \)     .
-                                       ,=':  \    ` `/` ' , , ,:' `'--".--"---._/`7
-                                      (    \: \,-._` ` + '\, ,"   _,--._,---":.__/
-                                            \:  `  X` _| _,\/'   .-'
-            (                 ,&&&.           ":._:`\____  /:'  /
-             )                .,.&&               \::.  :\/:'  /
-            (  (              \=__/                `.:.  /:'  }
-                )             ,'-'.                 ):_(:;   \
-          (    (  ,,      _.__|/ /|                /:. _/ ,  |
-           ) /\ -((------((_|___/ |               (|::.     ,`
-         (  // | (`'      ((  `'--|                |::.    {\
-       _ -.;_/ \\--._      \\ \-._/.               |::.\  \ `.
-      (_;-// | \ \-'.\    <_,\_\`--'|              |:::(\    |
-      ( `.__ _  ___,')      <_,-'__,'      O       |:::/{ }  |                  (o
-       `'(_ )_)(_)_)'                       )  ___/#\::`/ (O "==._____   O, (O  /`
-```
-</details>
-
-
 <p align="center">
   <img src="assets/wood-divider.svg" height="18" alt="divider"/>
 </p>
 
-<!--  ─────────────────────────────  FOOTER  ─────────────────────────────  -->
-
----
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=u22608789&bg_color=ffffff00&color=3b3b3b&line=2e4f2f&point=4b3b2b&hide_border=true"/>
+  <img src="assets/activity.png" alt="Activity Graph Title" height="44"/>
 </p>
 
-<!-- 
-To add:
-- Primary (keyboard) and Secondary (mouse) weapons 
-- Some little gifs all around 
-- Change the brown bar 
-- Add skill points where possible
-- Change description - more video game vibe  -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=u22608789&bg_color=ffffff00&color=3b3b3b&line=2e4f2f&point=4b3b2b&hide_border=true"/>
+</p>
