@@ -24,7 +24,7 @@
 <table align="center"> 
   <tr>
     <td> 
-    #### Character Description 
+    <h4>Character Description</h4> 
     I am a final year Computer Science student at the university of pretoria, and have been working with computers and programming for over 7 years. I enjoy mathematics and problem solving which has been my driving force to enter this field of study. Recently, my interest has expanded into the world of Artificial Intelligence, where I am excited to explore how systems can solve real-world problems. When I'm not working I'm probably at the gym, playing pool, losing in chess, but most likely am dead asleep. 
     </td> 
     <td width="220" align="center"> 
