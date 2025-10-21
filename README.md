@@ -59,10 +59,10 @@
     </td>
     <td style="vertical-align:top; width:75%; padding-top:10px;">
       <div><b>Problem-solving</b> — <img src="assets/ui/greenbar_9.svg" alt="9/10" height="14"/> 9/10</div>
-      <div><b>Mathematics</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
+      <div><b>Mathematics</b> — <img src="assets/ui/greenbar_9.svg" alt="8/10" height="14"/> 8/10</div>
       <div><b>Data Structures & Algorithms</b> — <img src="assets/ui/greenbar_8.svg" alt="7/10" height="14"/> 7/10</div>
       <div><b>Physics</b> — <img src="assets/ui/greenbar_6.svg" alt="6/10" height="14"/> 6/10</div>
-      <div><b>Backend Development</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Backend Development</b> — <img src="assets/ui/greenbar_8.svg" alt="7/10" height="14"/> 7/10</div>
       <div><b>Stupendous Vibe Coder</b> *(mostly joking...)* — <img src="assets/ui/greenbar_10.svg" alt="10/10" height="14"/> 10/10</div>
     </td>
   </tr>
@@ -74,9 +74,9 @@
       <h3>Soft Skills</h3>
     </td>
     <td style="vertical-align:top; width:75%; padding-top:18px;">
-      <div><b>Communication</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
-      <div><b>Teamwork & Collaboration</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
-      <div><b>Creativity</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
+      <div><b>Communication</b> — <img src="assets/ui/greenbar_9.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Teamwork & Collaboration</b> — <img src="assets/ui/greenbar_8.svg" alt="7/10" height="14"/> 7/10</div>
+      <div><b>Creativity</b> — <img src="assets/ui/greenbar_9.svg" alt="8/10" height="14"/> 8/10</div>
       <div><b>Time Management</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
     </td>
   </tr>
@@ -88,10 +88,10 @@
       <h3>Hobbies</h3>
     </td>
     <td style="vertical-align:top; width:75%; padding-top:18px;">
-      <div><b>Gym</b> — <img src="assets/ui/greenbar_8.svg" alt="8/10" height="14"/> 8/10</div>
+      <div><b>Gym</b> — <img src="assets/ui/greenbar_7.svg" alt="8/10" height="14"/> 8/10</div>
       <div><b>Chess</b> — <img src="assets/ui/greenbar_4.svg" alt="4/10" height="14"/> 4/10</div>
       <div><b>Video Games</b> — <img src="assets/ui/greenbar_7.svg" alt="7/10" height="14"/> 7/10</div>
-      <div><b>Pool & Table Tennis</b> — <img src="assets/ui/greenbar_6.svg" alt="6/10" height="14"/> 6/10</div>
+      <div><b>Pool & Table Tennis</b> — <img src="assets/ui/greenbar_7.svg" alt="6/10" height="14"/> 6/10</div>
       <div><b>Nature & Hikes</b> — <img src="assets/ui/greenbar_9.svg" alt="9/10" height="14"/> 9/10</div>
     </td>
   </tr>
